@@ -1,5 +1,7 @@
 # Modern React Guidance
 
+[![skills.sh](https://skills.sh/b/adhhamdev/modern-react-guidance)](https://skills.sh/adhhamdev/modern-react-guidance)
+
 **Authoritative agent skill for React 19+**
 
 Optimized for AI coding agents (Claude Code, Cursor, Codex, Copilot, etc.).
